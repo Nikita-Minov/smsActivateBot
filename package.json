@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "request": "^2.88.2",
-    "zombie": "^6.1.4"
+    "request": "^2.88.2"
   }
 }
